@@ -4,12 +4,12 @@ body {
 
 @font-face {
   font-family: 'MyFont';
-  src: url('images/Bios\ Bold.otf') format('truetype');
+  src: url('https://raw.githubusercontent.com/s0crates-eth/gm/main/images/Bios\ Bold.otf') format('truetype');
 }
 
 body {
-  background: url('images/background.png') fixed;
-  background-image: url('images/background.png');
+  background: url('https://raw.githubusercontent.com/s0crates-eth/gm/main/images/background.png') fixed;
+  background-image: url('https://raw.githubusercontent.com/s0crates-eth/gm/main/images/background.png');
   background-attachment:scroll;
   background-size: cover;
 }
