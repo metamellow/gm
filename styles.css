@@ -95,4 +95,14 @@ ul {
   line-height:150%
 }
 
-  
+.tokenomic-piechart {
+  display: block;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-image: conic-gradient(
+      rgb(103, 91, 144) 18deg, 
+      rgb(57, 123, 196) 0 36deg, 
+      rgb(122, 235, 246) 0);
+}
+
