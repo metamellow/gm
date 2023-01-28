@@ -19,3 +19,8 @@ To find out more please visit:
 
 - This is the repository for the Bank of Nowhere website! 
 - This repository is being synced through fleek onto IPFS and then sent to ENS bankofnowhere.eth
+
+# New Site Info
+- https://sxb1plzcpnl440009.prod.sxb1.secureserver.net:2083/cpsess6200685807/frontend/paper_lantern/filemanager/index.html
+- www.bankofnowhere.world
+- https://www.godaddy.com/help/configuring-dns-for-your-cpanel-domain-8852
