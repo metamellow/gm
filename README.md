@@ -17,6 +17,7 @@ To find out more please visit:
 
 # Notes 🔥
 
+- THIS REPO WILL BE OUTDATED (and a new one will be used -- and this will act to forward)
 - This is the repository for the Bank of Nowhere website! 
 - This repository is being synced through fleek onto IPFS and then sent to ENS bankofnowhere.eth
 
